@@ -17,6 +17,6 @@ pip install -e ".[notebooks]"
 
 ## Please branch off 
 
-``
+```
 git switch -c <branch-name>
 ```
