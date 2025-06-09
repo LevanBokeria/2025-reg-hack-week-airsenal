@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools >= 77.0.3", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "2025-reg-hack-week-airsenal"
+version = "0.1.0"
+description = "A Python project for 2025 Reg Hack Week"
+authors = [
+    { name = "Levan Bokeria", email = "levan.bokeria@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+]
+
+[project.optional-dependencies]
+notebooks = ["ipykernel"]
+dev = ["pre-commit", "black", "flake8", "isort"]
+
+[project.urls]
+"Homepage" = "https://github.com/LevanBokeria/2025-reg-hack-week-airsenal"
+"Source Code" = "https://github.com/LevanBokeria/2025-reg-hack-week-airsenal"
+"Bug Tracker" = "https://github.com/LevanBokeria/2025-reg-hack-week-airsenal"
