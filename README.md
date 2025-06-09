@@ -14,3 +14,9 @@ Including notebook dependencies, to use Jupyter notebooks in VSCode.
 ```
 pip install -e ".[notebooks]"
 ```
+
+## Please branch off 
+
+``
+git switch -c <branch-name>
+```
