@@ -18,7 +18,8 @@ dependencies = [
     "pandas",
     "scipy",
     "xgboost",
-    "scikit-learn"
+    "scikit-learn",
+    "BorutaShap"
 ]
 
 [project.optional-dependencies]
