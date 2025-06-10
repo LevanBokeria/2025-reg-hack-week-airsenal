@@ -20,7 +20,8 @@ dependencies = [
     "xgboost",
     "scikit-learn",
     "BorutaShap",
-    "sktime"
+    "sktime",
+    "plotly"
 ]
 
 [project.optional-dependencies]
