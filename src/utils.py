@@ -4,7 +4,7 @@ def last_weeks_avg(df, weeks=5):
     # Sort by player and week to ensure correct rolling calculation
     df = df.sort_values(['player', 'week', 'date'])
     df[f'avg_weeks_last_{weeks}'] = df.groupby('player')['minutes'].transform(
-        lambda x: x.rolling(window=weeks, min_periods=1).mean())
+        lambda x: x.shift(1).rolling(window=weeks, min_periods=1).mean())
     
     return df
 
