@@ -19,7 +19,8 @@ dependencies = [
     "scipy",
     "xgboost",
     "scikit-learn",
-    "BorutaShap"
+    "BorutaShap",
+    "sktime"
 ]
 
 [project.optional-dependencies]
