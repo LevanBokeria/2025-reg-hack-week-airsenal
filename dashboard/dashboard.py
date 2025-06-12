@@ -80,15 +80,33 @@ def create_line_plot(df, player_id, cutoff_date=None, player_mapping=None, selec
                 marker=dict(size=6)
             ))
         elif name == 'True Minutes':
-            # Minutes column - always show full solid line
-            fig.add_trace(go.Scatter(
-                x=x_data,
-                y=y_data,
-                mode='lines+markers',
-                name=name,
-                line=dict(color=color, width=2),
-                marker=dict(size=6)
-            ))
+            # Minutes column - split at cutoff: solid before, dashed after
+            before_cutoff = player_data[player_data['datetime'] <= cutoff_date]
+            after_cutoff = player_data[player_data['datetime'] >= cutoff_date]
+            
+            # Add solid line for data before cutoff
+            if not before_cutoff.empty:
+                fig.add_trace(go.Scatter(
+                    x=before_cutoff['datetime'],
+                    y=before_cutoff['minutes'],
+                    mode='lines+markers',
+                    name=f"{name} (Before)",
+                    line=dict(color=color, width=2),
+                    marker=dict(size=6),
+                    showlegend=True
+                ))
+            
+            # Add dashed line for data after cutoff
+            if not after_cutoff.empty:
+                fig.add_trace(go.Scatter(
+                    x=after_cutoff['datetime'],
+                    y=after_cutoff['minutes'],
+                    mode='lines+markers',
+                    name=f"{name} (After)",
+                    line=dict(color=color, width=2, dash='dash'),
+                    marker=dict(size=6, symbol='diamond'),
+                    showlegend=True
+                ))
         else:
             # Model columns - only show after cutoff date with dashed lines
             after_cutoff = player_data[player_data['datetime'] >= cutoff_date]
@@ -133,11 +151,13 @@ def create_line_plot(df, player_id, cutoff_date=None, player_mapping=None, selec
         title=title,
         xaxis_title='datetime',
         yaxis_title='minutes',
+        yaxis=dict(range=[-5, 95]),  # Fix y-axis range from 0 to 90
         legend=dict(
+            orientation="v",
             yanchor="top",
-            y=0.99,
+            y=1,
             xanchor="left",
-            x=0.01
+            x=1.02
         ),
         hovermode='x unified',
         template='plotly_white'
