@@ -1,0 +1,1492 @@
+
+====================
+NFO (home) 
+
+Martin Ødegaard: 90 
+Bukayo Saka: 90 
+Gabriel Martinelli Silva: 85 
+Gabriel Fernando de Jesus: 0 
+Kai Havertz: 90 
+Leandro Trossard: 17 
+Granit Xhaka: 0 
+Emile Smith Rowe: 0 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Jorge Luiz Frello Filho: 0 
+Benjamin White: 90 
+Eddie Nketiah: 72 
+Oleksandr Zinchenko: 0 
+Nicolas Pépé: 0 
+Albert Sambi Lokonga: 0 
+William Saliba: 90 
+Thomas Partey: 90 
+Jurriën Timber: 49 
+Aaron Ramsdale: 90 
+Gabriel dos Santos Magalhães: 4 
+Reiss Nelson: 0 
+Marcus Oliveira Alencar: 0 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Takehiro Tomiyasu: 40 
+Rob Holding: 0 
+Cédric Alves Soares: 0 
+Nuno Varela Tavares: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+
+====================
+CRY (away) 
+
+Bukayo Saka: 88 
+Martin Ødegaard: 89 
+Gabriel Martinelli Silva: 69 
+Gabriel Fernando de Jesus: 0 
+Kai Havertz: 90 
+Leandro Trossard: 0 
+Granit Xhaka: 0 
+Emile Smith Rowe: 0 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Jorge Luiz Frello Filho: 11 
+Benjamin White: 90 
+Eddie Nketiah: 78 
+William Saliba: 90 
+Oleksandr Zinchenko: 1 
+Nicolas Pépé: 0 
+Albert Sambi Lokonga: 0 
+David Raya Martin: 0 
+Thomas Partey: 90 
+Aaron Ramsdale: 90 
+Gabriel dos Santos Magalhães: 20 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Jakub Kiwior: 1 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Takehiro Tomiyasu: 66 
+Rob Holding: 0 
+Cédric Alves Soares: 0 
+Nuno Varela Tavares: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+
+====================
+FUL (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 83 
+Gabriel Martinelli Silva: 90 
+Gabriel Fernando de Jesus: 1 
+Kai Havertz: 55 
+Leandro Trossard: 45 
+Granit Xhaka: 0 
+Eddie Nketiah: 45 
+Declan Rice: 90 
+Jorge Luiz Frello Filho: 6 
+Benjamin White: 90 
+Emile Smith Rowe: 0 
+Fábio Ferreira Vieira: 34 
+William Saliba: 90 
+Thomas Partey: 55 
+Aaron Ramsdale: 90 
+Reiss Nelson: 0 
+Oleksandr Zinchenko: 34 
+Nicolas Pépé: 0 
+Albert Sambi Lokonga: 0 
+David Raya Martin: 0 
+Gabriel dos Santos Magalhães: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Folarin Balogun: 0 
+Takehiro Tomiyasu: 0 
+Rob Holding: 0 
+Jakub Kiwior: 90 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Cédric Alves Soares: 0 
+Nuno Varela Tavares: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+
+====================
+MUN (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Martinelli Silva: 89 
+Gabriel Fernando de Jesus: 14 
+Kai Havertz: 76 
+Leandro Trossard: 0 
+Granit Xhaka: 0 
+Eddie Nketiah: 75 
+Benjamin White: 90 
+Emile Smith Rowe: 0 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 13 
+Jorge Luiz Frello Filho: 1 
+William Saliba: 90 
+Aaron Ramsdale: 90 
+Oleksandr Zinchenko: 75 
+Nicolas Pépé: 0 
+Albert Sambi Lokonga: 0 
+Thomas Partey: 0 
+Reiss Nelson: 1 
+David Raya Martin: 0 
+Jurriën Timber: 0 
+Gabriel dos Santos Magalhães: 90 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 14 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rob Holding: 0 
+Cédric Alves Soares: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+
+====================
+EVE (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Martinelli Silva: 23 
+Gabriel Fernando de Jesus: 24 
+Kai Havertz: 10 
+Leandro Trossard: 66 
+Granit Xhaka: 0 
+Eddie Nketiah: 65 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 79 
+Jorge Luiz Frello Filho: 0 
+Emile Smith Rowe: 0 
+William Saliba: 90 
+Aaron Ramsdale: 0 
+Oleksandr Zinchenko: 79 
+Nicolas Pépé: 0 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 10 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+TOT (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 76 
+Gabriel Martinelli Silva: 0 
+Kai Havertz: 45 
+Leandro Trossard: 0 
+Granit Xhaka: 0 
+Eddie Nketiah: 90 
+Benjamin White: 90 
+Declan Rice: 45 
+Fábio Ferreira Vieira: 45 
+Jorge Luiz Frello Filho: 45 
+Emile Smith Rowe: 1 
+William Saliba: 90 
+Aaron Ramsdale: 0 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+Reiss Nelson: 13 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Gabriel dos Santos Magalhães: 90 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 0 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+BOU (away) 
+
+Bukayo Saka: 75 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 90 
+Gabriel Martinelli Silva: 0 
+Kai Havertz: 80 
+Leandro Trossard: 0 
+Granit Xhaka: 0 
+Benjamin White: 90 
+Eddie Nketiah: 68 
+Declan Rice: 80 
+Fábio Ferreira Vieira: 14 
+Jorge Luiz Frello Filho: 9 
+Emile Smith Rowe: 9 
+William Saliba: 90 
+Oleksandr Zinchenko: 68 
+Nicolas Pépé: 0 
+Aaron Ramsdale: 0 
+Reiss Nelson: 21 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Jurriën Timber: 0 
+Gabriel dos Santos Magalhães: 90 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 21 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+MCI (home) 
+
+Bukayo Saka: 0 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 90 
+Gabriel Martinelli Silva: 45 
+Kai Havertz: 15 
+Leandro Trossard: 45 
+Granit Xhaka: 0 
+Benjamin White: 90 
+Eddie Nketiah: 74 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Jorge Luiz Frello Filho: 74 
+Emile Smith Rowe: 0 
+William Saliba: 90 
+Oleksandr Zinchenko: 74 
+Nicolas Pépé: 0 
+Aaron Ramsdale: 0 
+Reiss Nelson: 0 
+David Raya Martin: 90 
+Thomas Partey: 15 
+Jurriën Timber: 0 
+Gabriel dos Santos Magalhães: 90 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 15 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+CHE (away) 
+
+Martin Ødegaard: 77 
+Bukayo Saka: 90 
+Gabriel Fernando de Jesus: 67 
+Gabriel Martinelli Silva: 77 
+Kai Havertz: 12 
+Leandro Trossard: 12 
+Granit Xhaka: 0 
+Benjamin White: 90 
+Eddie Nketiah: 22 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Jorge Luiz Frello Filho: 67 
+Emile Smith Rowe: 22 
+William Saliba: 90 
+Oleksandr Zinchenko: 45 
+Nicolas Pépé: 0 
+Reiss Nelson: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Aaron Ramsdale: 0 
+Jurriën Timber: 0 
+Gabriel dos Santos Magalhães: 90 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 45 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+SHU (home) 
+
+Bukayo Saka: 72 
+Martin Ødegaard: 0 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 65 
+Kai Havertz: 90 
+Leandro Trossard: 24 
+Granit Xhaka: 0 
+Benjamin White: 65 
+Eddie Nketiah: 90 
+Declan Rice: 88 
+Fábio Ferreira Vieira: 17 
+Emile Smith Rowe: 72 
+Jorge Luiz Frello Filho: 0 
+William Saliba: 90 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+Reiss Nelson: 17 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Aaron Ramsdale: 0 
+Gabriel dos Santos Magalhães: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 24 
+Kieran Tierney: 0 
+Mohamed Elneny: 1 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+NEW (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 0 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 90 
+Kai Havertz: 90 
+Leandro Trossard: 11 
+Granit Xhaka: 0 
+Benjamin White: 72 
+Eddie Nketiah: 78 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 11 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 78 
+William Saliba: 90 
+Oleksandr Zinchenko: 17 
+Nicolas Pépé: 0 
+Reiss Nelson: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Gabriel dos Santos Magalhães: 90 
+Aaron Ramsdale: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Takehiro Tomiyasu: 90 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+BUR (home) 
+
+Bukayo Saka: 80 
+Martin Ødegaard: 0 
+Gabriel Martinelli Silva: 88 
+Gabriel Fernando de Jesus: 0 
+Kai Havertz: 58 
+Leandro Trossard: 80 
+Granit Xhaka: 0 
+Benjamin White: 0 
+Eddie Nketiah: 9 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 23 
+Emile Smith Rowe: 0 
+William Saliba: 90 
+Jorge Luiz Frello Filho: 90 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Reiss Nelson: 9 
+Thomas Partey: 0 
+Gabriel dos Santos Magalhães: 90 
+Aaron Ramsdale: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Takehiro Tomiyasu: 90 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+BRE (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Martinelli Silva: 78 
+Gabriel Fernando de Jesus: 65 
+Kai Havertz: 11 
+Leandro Trossard: 90 
+Granit Xhaka: 0 
+Benjamin White: 1 
+Eddie Nketiah: 24 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+William Saliba: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 1 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 0 
+Reiss Nelson: 0 
+Thomas Partey: 0 
+Gabriel dos Santos Magalhães: 90 
+Aaron Ramsdale: 90 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Takehiro Tomiyasu: 90 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+WOL (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Martinelli Silva: 77 
+Gabriel Fernando de Jesus: 66 
+Kai Havertz: 12 
+Leandro Trossard: 90 
+Granit Xhaka: 0 
+Benjamin White: 11 
+Eddie Nketiah: 23 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 1 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Reiss Nelson: 0 
+Thomas Partey: 0 
+Aaron Ramsdale: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Takehiro Tomiyasu: 78 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+LUT (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 90 
+Gabriel Martinelli Silva: 63 
+Kai Havertz: 90 
+Leandro Trossard: 26 
+Granit Xhaka: 0 
+Benjamin White: 90 
+Eddie Nketiah: 0 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 26 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Reiss Nelson: 0 
+Thomas Partey: 0 
+Aaron Ramsdale: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 63 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+AVL (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 81 
+Gabriel Martinelli Silva: 69 
+Kai Havertz: 90 
+Leandro Trossard: 20 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Eddie Nketiah: 8 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Reiss Nelson: 1 
+Thomas Partey: 0 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+BHA (home) 
+
+Bukayo Saka: 88 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 80 
+Gabriel Martinelli Silva: 81 
+Kai Havertz: 88 
+Leandro Trossard: 8 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Eddie Nketiah: 9 
+Emile Smith Rowe: 1 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Reiss Nelson: 1 
+Thomas Partey: 0 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+LIV (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 77 
+Gabriel Martinelli Silva: 67 
+Kai Havertz: 90 
+Leandro Trossard: 22 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Eddie Nketiah: 12 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+WHU (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 90 
+Gabriel Martinelli Silva: 63 
+Kai Havertz: 0 
+Leandro Trossard: 78 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Eddie Nketiah: 26 
+Emile Smith Rowe: 11 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 63 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Gabriel dos Santos Magalhães: 90 
+Thomas Partey: 0 
+Reiss Nelson: 26 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+FUL (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 23 
+Gabriel Martinelli Silva: 66 
+Kai Havertz: 76 
+Leandro Trossard: 23 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 66 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+Eddie Nketiah: 90 
+Oleksandr Zinchenko: 0 
+Gabriel dos Santos Magalhães: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Reiss Nelson: 13 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 45 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 45 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+CRY (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 80 
+Gabriel Martinelli Silva: 21 
+Kai Havertz: 68 
+Leandro Trossard: 68 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 72 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 21 
+Jorge Luiz Frello Filho: 17 
+Eddie Nketiah: 9 
+Oleksandr Zinchenko: 90 
+Gabriel dos Santos Magalhães: 80 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Aaron Ramsdale: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 9 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+NFO (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 77 
+Gabriel Martinelli Silva: 77 
+Kai Havertz: 19 
+Leandro Trossard: 12 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 70 
+Jorge Luiz Frello Filho: 1 
+Oleksandr Zinchenko: 90 
+Eddie Nketiah: 12 
+Gabriel dos Santos Magalhães: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+LIV (home) 
+
+Bukayo Saka: 78 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 73 
+Kai Havertz: 90 
+Leandro Trossard: 16 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 90 
+Oleksandr Zinchenko: 45 
+Eddie Nketiah: 0 
+Gabriel dos Santos Magalhães: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Reiss Nelson: 11 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 45 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 0 
+
+====================
+WHU (away) 
+
+Bukayo Saka: 66 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 76 
+Kai Havertz: 90 
+Leandro Trossard: 66 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 76 
+Declan Rice: 66 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 23 
+Gabriel dos Santos Magalhães: 90 
+Nicolas Pépé: 0 
+David Raya Martin: 90 
+Thomas Partey: 0 
+Reiss Nelson: 23 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 13 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 23 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+Cédric Alves Soares: 13 
+
+====================
+BUR (away) 
+
+Bukayo Saka: 68 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 90 
+Kai Havertz: 83 
+Leandro Trossard: 68 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 68 
+Declan Rice: 78 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 6 
+Jorge Luiz Frello Filho: 11 
+Oleksandr Zinchenko: 0 
+Gabriel dos Santos Magalhães: 90 
+Eddie Nketiah: 21 
+David Raya Martin: 90 
+Nicolas Pépé: 0 
+Thomas Partey: 0 
+Reiss Nelson: 21 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 21 
+
+====================
+NEW (home) 
+
+Bukayo Saka: 75 
+Martin Ødegaard: 75 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 63 
+Kai Havertz: 75 
+Leandro Trossard: 26 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 14 
+Jorge Luiz Frello Filho: 88 
+Gabriel dos Santos Magalhães: 90 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 14 
+David Raya Martin: 90 
+Nicolas Pépé: 0 
+Thomas Partey: 0 
+Reiss Nelson: 14 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 1 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+SHU (away) 
+
+Bukayo Saka: 45 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 26 
+Gabriel Martinelli Silva: 63 
+Kai Havertz: 90 
+Leandro Trossard: 16 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 64 
+Declan Rice: 73 
+Fábio Ferreira Vieira: 45 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 64 
+Gabriel dos Santos Magalhães: 90 
+Eddie Nketiah: 0 
+Oleksandr Zinchenko: 0 
+David Raya Martin: 90 
+Nicolas Pépé: 0 
+Thomas Partey: 25 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 25 
+
+====================
+BRE (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 20 
+Gabriel Martinelli Silva: 0 
+Kai Havertz: 90 
+Leandro Trossard: 78 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 69 
+Gabriel dos Santos Magalhães: 90 
+Eddie Nketiah: 0 
+Oleksandr Zinchenko: 11 
+David Raya Martin: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 1 
+Reiss Nelson: 11 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 90 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 78 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+MCI (away) 
+
+Bukayo Saka: 77 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 71 
+Gabriel Martinelli Silva: 12 
+Kai Havertz: 90 
+Leandro Trossard: 18 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 65 
+Gabriel dos Santos Magalhães: 90 
+Eddie Nketiah: 0 
+Oleksandr Zinchenko: 0 
+David Raya Martin: 90 
+Nicolas Pépé: 0 
+Thomas Partey: 24 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 24 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Jakub Kiwior: 65 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+LUT (home) 
+
+Bukayo Saka: 0 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 15 
+Kai Havertz: 65 
+Leandro Trossard: 90 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 90 
+Declan Rice: 23 
+Fábio Ferreira Vieira: 0 
+Emile Smith Rowe: 84 
+Jorge Luiz Frello Filho: 5 
+Gabriel dos Santos Magalhães: 90 
+Eddie Nketiah: 24 
+Oleksandr Zinchenko: 73 
+David Raya Martin: 90 
+Nicolas Pépé: 0 
+Thomas Partey: 66 
+Reiss Nelson: 74 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 16 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+BHA (away) 
+
+Bukayo Saka: 63 
+Martin Ødegaard: 88 
+Gabriel Fernando de Jesus: 63 
+Gabriel Martinelli Silva: 26 
+Kai Havertz: 88 
+Leandro Trossard: 26 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 1 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 90 
+Gabriel dos Santos Magalhães: 90 
+David Raya Martin: 90 
+Eddie Nketiah: 1 
+Oleksandr Zinchenko: 71 
+Nicolas Pépé: 0 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 18 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+AVL (home) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 78 
+Gabriel Fernando de Jesus: 78 
+Gabriel Martinelli Silva: 23 
+Kai Havertz: 90 
+Leandro Trossard: 66 
+Granit Xhaka: 0 
+William Saliba: 90 
+Benjamin White: 66 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 11 
+Jorge Luiz Frello Filho: 11 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 86 
+Eddie Nketiah: 3 
+Nicolas Pépé: 0 
+Thomas Partey: 0 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 23 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Jakub Kiwior: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+WOL (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 79 
+Gabriel Martinelli Silva: 18 
+Kai Havertz: 90 
+Leandro Trossard: 71 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 10 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 0 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 90 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+CHE (home) 
+
+Bukayo Saka: 81 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 18 
+Gabriel Martinelli Silva: 18 
+Kai Havertz: 71 
+Leandro Trossard: 71 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 8 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 18 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 18 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 71 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 71 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+TOT (away) 
+
+Bukayo Saka: 90 
+Martin Ødegaard: 88 
+Gabriel Fernando de Jesus: 0 
+Gabriel Martinelli Silva: 27 
+Kai Havertz: 90 
+Leandro Trossard: 62 
+Granit Xhaka: 0 
+Benjamin White: 90 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 90 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 90 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+BOU (home) 
+
+Bukayo Saka: 85 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 4 
+Gabriel Martinelli Silva: 9 
+Kai Havertz: 90 
+Leandro Trossard: 80 
+Benjamin White: 90 
+Granit Xhaka: 0 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 0 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 90 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 90 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+MUN (away) 
+
+Bukayo Saka: 81 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 8 
+Gabriel Martinelli Silva: 24 
+Kai Havertz: 90 
+Leandro Trossard: 65 
+Benjamin White: 90 
+Granit Xhaka: 0 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 90 
+Emile Smith Rowe: 0 
+Jorge Luiz Frello Filho: 1 
+David Raya Martin: 90 
+Oleksandr Zinchenko: 0 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 90 
+Reiss Nelson: 0 
+Jurriën Timber: 0 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 90 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 1 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
+
+====================
+EVE (home) 
+
+Bukayo Saka: 0 
+Martin Ødegaard: 90 
+Gabriel Fernando de Jesus: 12 
+Kai Havertz: 90 
+Gabriel Martinelli Silva: 90 
+Leandro Trossard: 77 
+Benjamin White: 68 
+Granit Xhaka: 0 
+William Saliba: 90 
+Declan Rice: 90 
+Fábio Ferreira Vieira: 0 
+Gabriel dos Santos Magalhães: 58 
+Emile Smith Rowe: 21 
+David Raya Martin: 90 
+Jorge Luiz Frello Filho: 0 
+Oleksandr Zinchenko: 31 
+Eddie Nketiah: 0 
+Nicolas Pépé: 0 
+Thomas Partey: 68 
+Reiss Nelson: 0 
+Jurriën Timber: 21 
+Marcus Oliveira Alencar: 0 
+Bradley Ibrahim: 0 
+Ethan Nwaneri: 0 
+Myles Lewis-Skelly: 0 
+Takehiro Tomiyasu: 90 
+Aaron Ramsdale: 0 
+Mauro Bandeira: 0 
+Charles Sagoe: 0 
+Kieran Tierney: 0 
+Mohamed Elneny: 0 
+Folarin Balogun: 0 
+Jakub Kiwior: 0 
+Rúnar Alex Rúnarsson: 0 
+Reuell Walters: 0 
+Karl Hein: 0 
+James Sweet: 0 
+Cédric Alves Soares: 0 
