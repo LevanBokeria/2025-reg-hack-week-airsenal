@@ -1,4 +1,3 @@
-
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
@@ -291,6 +290,57 @@ def main():
                 if fig:
                     st.plotly_chart(fig, use_container_width=True)
                     
+                    # Show Mean Absolute Error comparison
+                    st.subheader("📊 Model Performance: Mean Absolute Error vs True Minutes")
+                    
+                    # Get model columns (only selected ones)
+                    model_columns = [col for col in selected_models if col in player_data.columns]
+                    
+                    if model_columns:
+                        # Calculate MAE for each model
+                        mae_data = []
+                        for model_col in model_columns:
+                            mae = abs(player_data['minutes'] - player_data[model_col]).mean()
+                            mae_data.append({
+                                'Model': model_col,
+                                'Mean Absolute Error': round(mae, 2),
+                                'Lower is Better': '✅' if mae == min([abs(player_data['minutes'] - player_data[col]).mean() for col in model_columns]) else ''
+                            })
+                        
+                        # Create DataFrame and display as table
+                        mae_df = pd.DataFrame(mae_data)
+                        mae_df = mae_df.sort_values('Mean Absolute Error')  # Sort by MAE (best first)
+                        
+                        st.dataframe(
+                            mae_df,
+                            use_container_width=True,
+                            hide_index=True
+                        )
+                        
+                        # Show best performing model
+                        best_model = mae_df.iloc[0]['Model']
+                        best_mae = mae_df.iloc[0]['Mean Absolute Error']
+                        st.success(f"🏆 **Best Performing Model**: {best_model} (MAE: {best_mae})")
+                        
+                        # Show additional statistics in expandable section
+                        with st.expander("📈 Additional Statistics"):
+                            st.write("**True Minutes Statistics:**")
+                            col1, col2, col3 = st.columns(3)
+                            with col1:
+                                st.metric("Mean", f"{player_data['minutes'].mean():.1f}")
+                            with col2:
+                                st.metric("Max", f"{player_data['minutes'].max()}")
+                            with col3:
+                                st.metric("Min", f"{player_data['minutes'].min()}")
+                            
+                            st.write("**Model Performance Details:**")
+                            for model_col in model_columns:
+                                mae = abs(player_data['minutes'] - player_data[model_col]).mean()
+                                rmse = ((player_data['minutes'] - player_data[model_col]) ** 2).mean() ** 0.5
+                                st.write(f"• **{model_col}**: MAE = {mae:.2f}, RMSE = {rmse:.2f}")
+                    else:
+                        st.info("No model columns selected for comparison.")
+                    
                     # Show data table for selected player
                     if player_mapping and selected_player in player_mapping:
                         player_display_name = f"{player_mapping[selected_player]} (ID: {selected_player})"
@@ -300,49 +350,155 @@ def main():
                     st.subheader(f"Data for {player_display_name}")
                     player_data = df[df['player_id'] == selected_player].sort_values('datetime')
                     st.dataframe(player_data, use_container_width=True)
+            
+            # Add overall model performance comparison section
+            st.markdown("---")
+            st.subheader("🏆 Overall Model Performance Comparison")
+            st.markdown("Performance metrics for all models across the **entire dataset**")
+            
+            # Get all model columns
+            all_model_columns = [col for col in df.columns if col not in ['player_id', 'datetime', 'minutes']]
+            
+            if all_model_columns:
+                # Calculate comprehensive metrics for each model
+                overall_performance = []
+                
+                for model_col in all_model_columns:
+                    # Remove any rows where either minutes or model prediction is NaN
+                    valid_data = df.dropna(subset=['minutes', model_col])
                     
-                    # Show summary statistics
-                    st.subheader("Summary Statistics")
+                    if len(valid_data) > 0:
+                        # Calculate various metrics
+                        mae = abs(valid_data['minutes'] - valid_data[model_col]).mean()
+                        rmse = ((valid_data['minutes'] - valid_data[model_col]) ** 2).mean() ** 0.5
+                        
+                        # Mean Absolute Percentage Error (MAPE) - handle division by zero
+                        mape_values = []
+                        for idx, row in valid_data.iterrows():
+                            if row['minutes'] != 0:
+                                mape_values.append(abs((row['minutes'] - row[model_col]) / row['minutes']) * 100)
+                        mape = sum(mape_values) / len(mape_values) if mape_values else float('inf')
+                        
+                        # R-squared (coefficient of determination)
+                        ss_res = ((valid_data['minutes'] - valid_data[model_col]) ** 2).sum()
+                        ss_tot = ((valid_data['minutes'] - valid_data['minutes'].mean()) ** 2).sum()
+                        r_squared = 1 - (ss_res / ss_tot) if ss_tot != 0 else 0
+                        
+                        # Correlation coefficient
+                        correlation = valid_data['minutes'].corr(valid_data[model_col])
+                        
+                        overall_performance.append({
+                            'Model': model_col,
+                            'MAE': round(mae, 2),
+                            'RMSE': round(rmse, 2),
+                            'MAPE (%)': round(mape, 2) if mape != float('inf') else 'N/A',
+                            'R²': round(r_squared, 3),
+                            'Correlation': round(correlation, 3),
+                            'Data Points': len(valid_data)
+                        })
+                
+                if overall_performance:
+                    # Create DataFrame and sort by MAE (best performance first)
+                    performance_df = pd.DataFrame(overall_performance)
+                    performance_df = performance_df.sort_values('MAE')
                     
-                    # Get model columns (only selected ones)
-                    model_columns = [col for col in selected_models if col in player_data.columns]
+                    # Add ranking column
+                    performance_df.insert(0, 'Rank', range(1, len(performance_df) + 1))
                     
-                    # Create columns dynamically based on number of models (max 4 columns for readability)
-                    num_cols = min(len(model_columns) + 1, 4)  # +1 for True Minutes
-                    cols = st.columns(num_cols)
+                    # Display the performance table
+                    st.dataframe(
+                        performance_df,
+                        use_container_width=True,
+                        hide_index=True
+                    )
                     
-                    # True Minutes stats
-                    with cols[0]:
-                        st.write("**True Minutes**")
-                        st.write(f"Mean: {player_data['minutes'].mean():.1f}")
-                        st.write(f"Max: {player_data['minutes'].max()}")
-                        st.write(f"Min: {player_data['minutes'].min()}")
+                    # Highlight best and worst models
+                    best_model = performance_df.iloc[0]
+                    worst_model = performance_df.iloc[-1]
                     
-                    # Model columns stats
-                    for i, model_col in enumerate(model_columns[:3]):  # Limit to 3 models for layout
-                        col_idx = i + 1
-                        if col_idx < len(cols):
-                            with cols[col_idx]:
-                                st.write(f"**{model_col}**")
-                                st.write(f"Mean: {player_data[model_col].mean():.1f}")
-                                st.write(f"Max: {player_data[model_col].max()}")
-                                st.write(f"Min: {player_data[model_col].min()}")
-                                mae = abs(player_data['minutes'] - player_data[model_col]).mean()
-                                st.write(f"MAE: {mae:.1f}")
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        st.success(f"""
+                        🥇 **Best Overall Model**: {best_model['Model']}
+                        - MAE: {best_model['MAE']}
+                        - RMSE: {best_model['RMSE']}
+                        - R²: {best_model['R²']}
+                        """)
                     
-                    # If more than 3 models, show additional stats in expandable section
-                    if len(model_columns) > 3:
-                        with st.expander(f"Additional Model Statistics ({len(model_columns) - 3} more models)"):
-                            extra_cols = st.columns(min(len(model_columns) - 3, 3))
-                            for i, model_col in enumerate(model_columns[3:]):
-                                col_idx = i % 3
-                                with extra_cols[col_idx]:
-                                    st.write(f"**{model_col}**")
-                                    st.write(f"Mean: {player_data[model_col].mean():.1f}")
-                                    st.write(f"Max: {player_data[model_col].max()}")
-                                    st.write(f"Min: {player_data[model_col].min()}")
-                                    mae = abs(player_data['minutes'] - player_data[model_col]).mean()
-                                    st.write(f"MAE: {mae:.1f}")
+                    with col2:
+                        st.error(f"""
+                        🥉 **Needs Improvement**: {worst_model['Model']}
+                        - MAE: {worst_model['MAE']}
+                        - RMSE: {worst_model['RMSE']}
+                        - R²: {worst_model['R²']}
+                        """)
+                    
+                    # Create visualization of model performance
+                    st.subheader("📈 Model Performance Visualization")
+                    
+                    # Create a bar chart comparing MAE across models
+                    fig_comparison = go.Figure()
+                    
+                    colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
+                    
+                    fig_comparison.add_trace(go.Bar(
+                        x=performance_df['Model'],
+                        y=performance_df['MAE'],
+                        name='Mean Absolute Error',
+                        marker_color=[colors[i % len(colors)] for i in range(len(performance_df))],
+                        text=performance_df['MAE'],
+                        textposition='auto',
+                    ))
+                    
+                    fig_comparison.update_layout(
+                        title='Model Performance Comparison (Lower MAE = Better)',
+                        xaxis_title='Model',
+                        yaxis_title='Mean Absolute Error (MAE)',
+                        template='plotly_white',
+                        showlegend=False
+                    )
+                    
+                    st.plotly_chart(fig_comparison, use_container_width=True)
+                    
+                    # Performance insights
+                    with st.expander("📊 Performance Insights & Metrics Explanation"):
+                        st.markdown("""
+                        **Metrics Explained:**
+                        - **MAE (Mean Absolute Error)**: Average absolute difference between predicted and actual minutes. Lower is better.
+                        - **RMSE (Root Mean Square Error)**: Square root of average squared differences. Penalizes larger errors more. Lower is better.
+                        - **MAPE (Mean Absolute Percentage Error)**: Average percentage error. Lower is better.
+                        - **R² (R-squared)**: Proportion of variance explained by the model. Higher is better (max = 1.0).
+                        - **Correlation**: Linear relationship strength between predicted and actual values. Higher is better (max = 1.0).
+                        
+                        **Performance Summary:**
+                        """)
+                        
+                        total_data_points = df.shape[0]
+                        avg_mae = performance_df['MAE'].mean()
+                        best_r2 = performance_df['R²'].max()
+                        
+                        st.write(f"- **Total Data Points**: {total_data_points:,}")
+                        st.write(f"- **Average MAE across all models**: {avg_mae:.2f}")
+                        st.write(f"- **Best R² score**: {best_r2:.3f}")
+                        st.write(f"- **Number of models evaluated**: {len(performance_df)}")
+                        
+                        # Show distribution of errors for best model
+                        if len(performance_df) > 0:
+                            best_model_name = performance_df.iloc[0]['Model']
+                            st.write(f"- **Best performing model**: {best_model_name}")
+                            
+                            # Calculate error distribution for best model
+                            best_model_data = df.dropna(subset=['minutes', best_model_name])
+                            errors = abs(best_model_data['minutes'] - best_model_data[best_model_name])
+                            
+                            st.write(f"  - Errors ≤ 5 minutes: {(errors <= 5).sum() / len(errors) * 100:.1f}%")
+                            st.write(f"  - Errors ≤ 10 minutes: {(errors <= 10).sum() / len(errors) * 100:.1f}%")
+                            st.write(f"  - Errors ≤ 15 minutes: {(errors <= 15).sum() / len(errors) * 100:.1f}%")
+                
+                else:
+                    st.warning("No valid model data found for performance comparison.")
+            else:
+                st.info("No model columns found in the dataset for overall comparison.")
     
     else:
         st.info("👆 Please upload a CSV file to get started")
