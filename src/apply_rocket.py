@@ -3,10 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 np.random.seed(42)
 
-from utils import filter_zero_min_players
-
 from sktime.regression.kernel_based import RocketRegressor
-from sktime.datasets import load_unit_test
 
 import pickle
 
@@ -16,8 +13,8 @@ def apply_rocket(train_dict, val_dict, position='FWD',rocket_model='rocket'):
     val = val_dict[position]
 
     # Select relevant columns
-    train = train[['minutes_0', 'minutes_1', 'minutes_2', 'minutes_3','out',]]
-    val   = val[['minutes_0', 'minutes_1', 'minutes_2', 'minutes_3','out',]]
+    train = train[['minutes_0', 'minutes_1', 'minutes_2', 'minutes_3','out_minutes',]]
+    val   = val[['minutes_0', 'minutes_1', 'minutes_2', 'minutes_3','out_minutes',]]
 
     # Define X_train as first four columns and y_train as the last column
     X_train = train.iloc[:, :-1]

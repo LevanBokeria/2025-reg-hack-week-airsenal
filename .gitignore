@@ -197,3 +197,5 @@ cython_debug/
 /datasets/house-prices-advanced-regression-solution-file/
 .DS_Store
 /outputs/
+/datasets/training_dictionary_20_weeks.pkl
+/datasets/validation_dictionary_20_weeks.pkl
