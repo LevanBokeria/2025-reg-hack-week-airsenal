@@ -32,7 +32,7 @@ def load_data(uploaded_file):
 def load_player_mapping():
     """Load player ID to name mapping"""
     try:
-        mapping_path = "/Users/wbrown/Documents/2025-reg-hack-week-airsenal/results/Player_Id_to_Name.csv"
+        mapping_path = "results/Player_Id_to_Name.csv"
         mapping_df = pd.read_csv(mapping_path)
         
         # Create a dictionary mapping player_id to name
