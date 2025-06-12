@@ -1,12 +1,21 @@
 import argparse
 import os
 
+import numpy as np
 import pandas as pd
 
 
 def run(directory):
     
     files = sorted(os.listdir(directory))
+    drop_file = []
+    
+    for i_file in range(len(files)):
+        if '.csv' not in files[i_file]:
+            drop_file.append(i_file)
+    for i_file in np.sort(drop_file)[::-1]:
+        del files[i_file]
+    
     df_list = [process_df(directory, file) for file in files]
 
     # merge all dataframes on player_id, datetime and minutes
